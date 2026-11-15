@@ -6,7 +6,7 @@ Estudante de **Sistemas de Informação** na **Universidade Paulista (UNIP)** e 
 
 ### Apresentação Pessoal e Académica
 
-Atualmente curso a graduação em **Sistemas de Informação** na **UNIP** (Campus São Paulo) e complemento a minha formação técnica com estudos práticos em programação **Python** no **SENAI**. No dia a dia, atuo como aprendiz na área de **Suporte Técnico e Infraestrutura de TI**, o que me permite unir a visão prática de manutenção e sistemas com o desenvolvimento de aplicações.
+Atualmente curso a graduação em **Sistemas de Informação** na **UNIP** (Campus São Paulo). No dia a dia, atuo como aprendiz na área de **Suporte Técnico e Infraestrutura de TI**, o que me permite unir a visão prática de manutenção e sistemas com o desenvolvimento de aplicações.
 
 ---
 
