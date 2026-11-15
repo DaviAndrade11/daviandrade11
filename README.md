@@ -45,12 +45,6 @@ Atualmente curso a graduação em **Sistemas de Informação** na **UNIP** (Camp
 - *
 ---
 
-### Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DaviAndrade11&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### Contacto e Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-andrade-1b8505340/)
