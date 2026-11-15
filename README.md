@@ -33,7 +33,7 @@ Atualmente curso a graduação em **Sistemas de Informação** na **UNIP** (Camp
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-**Ferramentas e Plataformas:** VS Code, Eclipse IDE, Tkinter e simulação de circuitos com ESP32 (Wokwi).
+**Ferramentas e Plataformas:** VS Code, Eclipse IDE, Android studio.
 
 ---
 
