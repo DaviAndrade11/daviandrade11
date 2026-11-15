@@ -12,10 +12,8 @@ Atualmente curso a graduação em **Sistemas de Informação** na **UNIP** (Camp
 
 ### Áreas de Interesse em TI
 
-- Desenvolvimento de Software (Back-end e Aplicações Desktop)
 - Desenvolvimento Web
-- Sistemas Embarcados e Automação (IoT)
-- Infraestrutura, Redes e Suporte Técnico
+- Suporte Técnico
 
 ---
 
